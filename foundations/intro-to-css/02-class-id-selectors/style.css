@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+  background-color: rgb(235, 159, 159);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.adjust-font-size {
+  font-size: 24px;
+}
+
+#first {
+  color: rgb(51, 51, 207);
+  font-size: 36px;
+}
+
+#second {
+  background-color: rgb(184, 230, 175);
+  font-size: 24px;
+  font-weight: bold;
+}
